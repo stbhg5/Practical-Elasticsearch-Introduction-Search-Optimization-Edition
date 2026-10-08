@@ -5,6 +5,7 @@
 
 <h2>1. Elasticsearch 기본 개념<h2/>
     <a href="https://stbhg5.tistory.com/1229">Elasticsearch 란? / Elasticsearch 주요 활용 사례</a><br/>
+    <a href="https://stbhg5.tistory.com/1230">Elasticsearch 설치하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
