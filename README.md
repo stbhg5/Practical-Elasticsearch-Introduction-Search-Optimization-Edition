@@ -7,6 +7,7 @@
     <a href="https://stbhg5.tistory.com/1229">Elasticsearch 란? / Elasticsearch 주요 활용 사례</a><br/>
     <a href="https://stbhg5.tistory.com/1230">Elasticsearch 설치하기</a><br/>
     <a href="https://stbhg5.tistory.com/1231">Elasticsearch 작동 방식 / GUI 툴</a><br/>
+    <a href="https://stbhg5.tistory.com/1232">GUI 툴로 Elasticsearch 훨씬 쉽게 조작하기 (feat. Kibana)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
