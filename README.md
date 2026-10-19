@@ -9,6 +9,7 @@
     <a href="https://stbhg5.tistory.com/1231">Elasticsearch 작동 방식 / GUI 툴</a><br/>
     <a href="https://stbhg5.tistory.com/1232">GUI 툴로 Elasticsearch 훨씬 쉽게 조작하기 (feat. Kibana)</a><br/>
     <a href="https://stbhg5.tistory.com/1239">Elasticsearch의 기본 용어 정리 (인덱스, 도큐먼트, 매핑, 필드)</a><br/>
+    <a href="https://stbhg5.tistory.com/1242">인덱스 생성하기 / 매핑 정의하기 / 도큐먼트 삽입하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
