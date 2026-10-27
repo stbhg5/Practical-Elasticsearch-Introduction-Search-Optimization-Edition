@@ -13,8 +13,8 @@
     <a href="https://stbhg5.tistory.com/1251">도큐먼트 저장, 조회, 수정, 삭제하기</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>2. Spring Boot, Elasitcsearch를 활용해 CRUD 구현하기<h2/>
+    <a href="https://stbhg5.tistory.com/1253">[실습] Spring Boot에 Elasitcsearch 연결하기 (feat. Spring Data Elasticsearch)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
