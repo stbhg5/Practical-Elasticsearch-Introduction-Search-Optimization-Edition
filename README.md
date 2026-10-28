@@ -15,6 +15,11 @@
 
 <h2>2. Spring Boot, Elasitcsearch를 활용해 CRUD 구현하기<h2/>
     <a href="https://stbhg5.tistory.com/1253">[실습] Spring Boot에 Elasitcsearch 연결하기 (feat. Spring Data Elasticsearch)</a><br/>
+    <a href="https://stbhg5.tistory.com/1255">[실습] Elasticsearch를 활용해 CRUD API 만들기</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
