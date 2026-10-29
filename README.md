@@ -18,8 +18,9 @@
     <a href="https://stbhg5.tistory.com/1255">[실습] Elasticsearch를 활용해 CRUD API 만들기</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>3. 기본 검색 기능 및 작동 원리<h2/>
+    <a href="https://stbhg5.tistory.com/1257">단어의 순서가 바뀌어도 검색이 가능하다?!</a><br/>
+    <a href="https://stbhg5.tistory.com/1258">[실습] Elasitcsearch의 검색 기능 테스트해보기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
