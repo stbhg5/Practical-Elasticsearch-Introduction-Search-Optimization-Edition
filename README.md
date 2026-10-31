@@ -21,6 +21,7 @@
 <h2>3. 기본 검색 기능 및 작동 원리<h2/>
     <a href="https://stbhg5.tistory.com/1257">단어의 순서가 바뀌어도 검색이 가능하다?!</a><br/>
     <a href="https://stbhg5.tistory.com/1258">[실습] Elasitcsearch의 검색 기능 테스트해보기</a><br/>
+    <a href="https://stbhg5.tistory.com/1260">역인덱스(Inverted Index) 란?</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
