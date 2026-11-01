@@ -22,6 +22,7 @@
     <a href="https://stbhg5.tistory.com/1257">단어의 순서가 바뀌어도 검색이 가능하다?!</a><br/>
     <a href="https://stbhg5.tistory.com/1258">[실습] Elasitcsearch의 검색 기능 테스트해보기</a><br/>
     <a href="https://stbhg5.tistory.com/1260">역인덱스(Inverted Index) 란?</a><br/>
+    <a href="https://stbhg5.tistory.com/1262">[실습] 역인덱스(Inverted Index)를 활용한 데이터 조회</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
