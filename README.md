@@ -27,6 +27,7 @@
     <a href="https://stbhg5.tistory.com/1268">Elasticsearch에 기본값으로 설정되어 있는 애널라이저(Analyzer)</a><br/>
     <a href="https://stbhg5.tistory.com/1272">[실습] 애널라이저(Analyzer)가 토큰을 어떻게 나누는지 확인하는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1275">[실습] 대소문자 구분없이 검색하는 방법 (lowercase)</a><br/>
+    <a href="https://stbhg5.tistory.com/1277">[실습] 검색할 때 필요없는 HTML 태그 제거하기 (html_strip)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
