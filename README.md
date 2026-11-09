@@ -29,6 +29,7 @@
     <a href="https://stbhg5.tistory.com/1275">[실습] 대소문자 구분없이 검색하는 방법 (lowercase)</a><br/>
     <a href="https://stbhg5.tistory.com/1277">[실습] 검색할 때 필요없는 HTML 태그 제거하기 (html_strip)</a><br/>
     <a href="https://stbhg5.tistory.com/1280">[실습] 검색할 때 필요없는 불용어(a, an, the, or, but) 제거하기 (stop)</a><br/>
+    <a href="https://stbhg5.tistory.com/1284">[실습] 단어의 형태(-ed, -ing, -s 등)에 상관없이 검색하는 방법 (stemmer)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
