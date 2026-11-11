@@ -33,8 +33,8 @@
     <a href="https://stbhg5.tistory.com/1287">[실습] 동의어로 검색하는 방법 (synonym)</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>4 한글에 최적화된 검색 기능<h2/>
+    <a href="https://stbhg5.tistory.com/1289">한글(korean)이 제대로 검색되지 않는 현상</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
