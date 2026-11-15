@@ -41,6 +41,7 @@
 
 <h2>5. 데이터의 저장 타입을 결정하는 매핑(Mapping)<h2/>
     <a href="https://stbhg5.tistory.com/1299">매핑(mapping)이란? / 데이터 타입(data type)</a><br/>
+    <a href="https://stbhg5.tistory.com/1301">매핑(mapping)의 특이한 특징 (null 허용, Array 허용)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
