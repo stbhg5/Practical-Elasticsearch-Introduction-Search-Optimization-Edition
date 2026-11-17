@@ -45,8 +45,8 @@
     <a href="https://stbhg5.tistory.com/1303">[실습] 저장할 데이터에 맞게 매핑 정의하기</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>6. 자주 사용하는 검색 기능<h2/>
+    <a href="https://stbhg5.tistory.com/1306">검색 키워드가 포함된 데이터를 조회하고 싶을 때 (match)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
