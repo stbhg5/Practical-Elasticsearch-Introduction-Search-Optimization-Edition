@@ -47,6 +47,7 @@
 
 <h2>6. 자주 사용하는 검색 기능<h2/>
     <a href="https://stbhg5.tistory.com/1306">검색 키워드가 포함된 데이터를 조회하고 싶을 때 (match)</a><br/>
+    <a href="https://stbhg5.tistory.com/1309">특정 값과 정확하게 일치하는 데이터를 조회하고 싶을 때 (term, terms)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
