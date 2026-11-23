@@ -49,6 +49,7 @@
     <a href="https://stbhg5.tistory.com/1306">검색 키워드가 포함된 데이터를 조회하고 싶을 때 (match)</a><br/>
     <a href="https://stbhg5.tistory.com/1309">특정 값과 정확하게 일치하는 데이터를 조회하고 싶을 때 (term, terms)</a><br/>
     <a href="https://stbhg5.tistory.com/1312">2가지 이상의 조건을 만족시키는 데이터를 조회하고 싶을 때 (bool : filter, must)</a><br/>
+    <a href="https://stbhg5.tistory.com/1316">[예제] filter와 must 구분해서 사용하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
