@@ -51,6 +51,7 @@
     <a href="https://stbhg5.tistory.com/1312">2가지 이상의 조건을 만족시키는 데이터를 조회하고 싶을 때 (bool : filter, must)</a><br/>
     <a href="https://stbhg5.tistory.com/1316">[예제] filter와 must 구분해서 사용하기</a><br/>
     <a href="https://stbhg5.tistory.com/1319">특정 조건을 만족하지 않는 데이터를 조회하고 싶을 때 (bool : must_not)</a><br/>
+    <a href="https://stbhg5.tistory.com/1322">숫자/날짜의 값에 대해 범위 조건으로 데이터를 조회하고 싶을 때 (range)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
